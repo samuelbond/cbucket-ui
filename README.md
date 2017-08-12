@@ -1,9 +1,12 @@
 # cBucket
 cBucket is a software configuration manager that enables you to use the web browser to 
-add and modify your software configuration. cBucket helps you reduce mis-configuring
+add and modify your software configuration.
+
+cBucket helps you reduce mis-configuring
 your software by providing visibility and transparency,  also it provides
 an audit trail of when and by whom a configuration was changed.
-cBucket also supports storage of secret configuration which is powered by [Vault by HashiCorp](https://www.vaultproject.io/)
+cBucket also supports storage of secret configuration which is powered by [Vault by HashiCorp](https://www.vaultproject.io/).
+
 cBucket provides an HTTP API that can be used to access your project's configuration when
 automating deployments using IT Orchestration tools.
 
